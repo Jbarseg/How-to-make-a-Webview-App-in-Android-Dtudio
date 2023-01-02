@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087109034577",
+    "project_id": "sylvan-hydra-300506",
+    "storage_bucket": "sylvan-hydra-300506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087109034577:android:7f1c682979f05be4033e70",
+        "android_client_info": {
+          "package_name": "com.ventascostarica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087109034577-m2ireik6ukc1o242msq0ek19rjuu1nqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIgPJt4QQ5qkFaBmjllj-EY3ce3S_oijE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087109034577-m2ireik6ukc1o242msq0ek19rjuu1nqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
